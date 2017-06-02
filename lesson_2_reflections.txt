@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+	You tell git that this is not a normal directory but it is actually a 
+repository that we want to track changes on.
